@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-window.title("Калькулятор")
+window.title("Calculator")
 window.geometry("500x500")
 num1 = 0
 num2 = 0
